@@ -83,3 +83,4 @@ beakin-chaka-resort/
 - Ensure all images are optimized for web performance
 - Keep the design responsive for all device sizes
 - Use subtle animations to enhance user experience without being distracting
+
